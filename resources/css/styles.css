@@ -20,11 +20,13 @@ header h1 {
 .download {
     font-size: 1rem;
     color: aquamarine;
+    text-decoration: underline;
 }
 
 .container {
     display: block;
     padding: 0 auto;
+    margin-top: 1.5rem;
     text-align: center;
 }
 
