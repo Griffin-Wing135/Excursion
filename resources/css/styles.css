@@ -21,3 +21,9 @@ header h1 {
     font-size: 1rem;
     color: aquamarine;
 }
+
+.container {
+    display: block;
+    padding: 0 auto;
+    text-align: center;
+}
