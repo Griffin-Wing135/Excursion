@@ -7,6 +7,17 @@ body {
     background-color: black;
 }
 
-h1 {
+header {
+    text-align: center;
+}
+
+header h1 {
     color: white;
+    font-weight: normal;
+    font-size: 3.125rem;
+}
+
+.download {
+    font-size: 1rem;
+    color: aquamarine;
 }
